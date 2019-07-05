@@ -1,0 +1,18 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "clock",
+    "name": "Clock and auto restart",
+    "uuid": "78362493-5d31-4ae3-a1f3-dabc660cdb56",
+    "version": [0, 0, 0],
+    "min_engine_version": [1, 11, 0]
+  },
+  "modules": [
+    {
+      "description": "data",
+      "type": "data",
+      "uuid": "ad15ad23-6c7e-4f75-bb86-2bd36334cd2d",
+      "version": [0, 0, 0]
+    }
+  ]
+}
