@@ -1,8 +1,8 @@
 {
   "format_version": 1,
   "header": {
-    "description": "clock",
-    "name": "Clock and auto restart",
+    "description": "countdown-to-restart",
+    "name": "countdown for server restart",
     "uuid": "78362493-5d31-4ae3-a1f3-dabc660cdb56",
     "version": [0, 0, 0],
     "min_engine_version": [1, 11, 0]
